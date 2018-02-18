@@ -25,7 +25,7 @@
         <br/>
         <div id="playButton">
             <form>
-                <button class="button" style="vertical-align:middle"><span>Hover </span></button>
+                <button class="button" style="vertical-align:middle"><span>Next Song</span></button>
             </form>
         </div>
     </main>

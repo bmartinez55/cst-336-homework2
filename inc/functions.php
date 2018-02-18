@@ -1,7 +1,7 @@
 <?php
     function Go(){
-        $songs=array("https://www.youtube.com/embed/ISbnf9qCmhI?autoplay=1","https://www.youtube.com/embed/CSD2J8yaMmM?autoplay=1","https://www.youtube.com/embed/N9XoGYgCVzg?autoplay=1");
-        $album=array("FridayAlbum","Stankonia","MikeJones");
+        $songs=array("https://www.youtube.com/embed/sdpJ_cQlMnk?autoplay=1","https://www.youtube.com/embed/CSD2J8yaMmM?autoplay=1","https://www.youtube.com/embed/Xyd096zre7E?autoplay=1");
+        $album=array("MikeJones","Stankonia","FridayAlbum");
         
         $randIndex = rand(0,2);
         
